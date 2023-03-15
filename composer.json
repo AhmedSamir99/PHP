@@ -1,0 +1,17 @@
+{
+  "name": "iti/lec2",
+  "description": "lecture work",
+  "license": "MIT",
+  "require": {
+    "endroid/qr-code": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "classes"
+    ],
+    "files": [
+      "config.php",
+      "functions.php"
+    ]
+  }
+}
